@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/joychugh/messageParser.svg?branch=master)](https://travis-ci.org/joychugh/messageParser)
 
-# charParser
+# messageParser
 A simple app to parse chat message in a popular app and extract info
 
 Instructions:
