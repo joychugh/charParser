@@ -2,14 +2,10 @@
 A simple app to parse chat message in a popular app and extract info
 
 Instructions:
-Download and install Java 8
-Download and install Maven 3.3.9
-[Maven](http://maven.apache.org)
-
-go to root directory of the project and run
-
-```mvn clean compile package```
-
+* Download and install Java 8
+* Download and install Maven 3.3.9
+* [Maven](http://maven.apache.org)
+* go to root directory of the project and run ```mvn clean compile package```
 * Once the compile package phase is complete
 * Navigate to target directory created in the root directory, there you will see codescreen.properties
 * Set the port to use for the application, default 8090
